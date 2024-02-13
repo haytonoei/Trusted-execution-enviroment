@@ -1,1 +1,1 @@
-# Trusted-execution-enviroment
+# Trusted-execution-enviroment (TEE)
