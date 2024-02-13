@@ -2,7 +2,7 @@
 
 Sample use cases: Intel SGX, AMD SEV
 
-hardware-based encryption offering isolation + attestation
+hardware-based encryption offering isolation + attestation; protects data in use as well
 
 "tamper resistant processing environment that runs on a separation
 kernel
