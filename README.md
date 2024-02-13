@@ -1,5 +1,7 @@
 # Trusted-execution-enviroment (TEE)
 
+Sample use cases: Intel SGX, AMD PSP
+
 "tamper resistant processing environment that runs on a separation
 kernel
 
